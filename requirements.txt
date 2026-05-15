@@ -1,0 +1,6 @@
+pandas
+faker
+sqlalchemy
+streamlit
+numpy
+matplotlib

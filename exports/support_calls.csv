@@ -1,0 +1,1001 @@
+id,customer_name,issue_type,resolution_status,call_duration,satisfaction_score
+1,Adrian Williams,Technical Support,Resolved,4.75,4
+2,Ashley Miller,Technical Support,Escalated,53.88,1
+3,Melanie Barry,Billing,Resolved,20.85,4
+4,Douglas Jackson,Billing,Resolved,42.48,2
+5,Austin Doyle,Account Access,Pending,41.4,4
+6,Adam Walters,Account Access,Resolved,42.02,5
+7,Angela Poole,Account Access,Pending,30.87,5
+8,Regina Roberts,Billing,Escalated,45.32,1
+9,Heidi Abbott,Service Outage,Resolved,18.93,5
+10,Hannah Harding,Technical Support,Resolved,5.67,5
+11,Veronica Garza,Service Outage,Pending,41.94,3
+12,Maurice Henry,Service Outage,Resolved,14.27,4
+13,Paula Hayes,Service Outage,Pending,25.32,5
+14,Michelle Heath,Billing,Resolved,26.05,1
+15,Erika Tanner,Account Access,Resolved,36.34,1
+16,Laura Adams,Account Access,Resolved,2.66,5
+17,Angela Nguyen,Technical Support,Escalated,26.91,5
+18,David Cruz,Billing,Escalated,29.2,3
+19,Julian Barber,Service Outage,Escalated,29.53,4
+20,Kathy Gray,Billing,Pending,39.83,2
+21,Lauren Massey,Account Access,Pending,22.66,2
+22,Robert Allen,Technical Support,Escalated,35.36,1
+23,Samantha Adams,Service Outage,Escalated,5.16,1
+24,Lori Houston,Billing,Resolved,25.52,1
+25,Amanda Molina,Billing,Escalated,41.21,4
+26,Shawn Thompson MD,Billing,Resolved,13.86,5
+27,Casey Fields,Billing,Pending,24.24,4
+28,Sarah Wright,Account Access,Escalated,49.55,4
+29,Amber Hunter,Account Access,Escalated,30.4,3
+30,Diane Rodriguez,Service Outage,Pending,59.0,3
+31,Sharon Roberts,Technical Support,Escalated,49.41,1
+32,Julie Roberts,Service Outage,Resolved,44.57,3
+33,Timothy Rivera,Account Access,Escalated,57.12,2
+34,Thomas Scott,Account Access,Pending,43.32,5
+35,Jessica Patton,Technical Support,Pending,14.62,4
+36,Benjamin Brown,Technical Support,Pending,42.24,4
+37,John Griffin,Technical Support,Resolved,34.3,4
+38,Makayla Luna,Technical Support,Escalated,53.68,3
+39,Eric Smith,Technical Support,Resolved,34.61,2
+40,Megan Huang,Account Access,Resolved,53.06,3
+41,Kimberly Clarke DDS,Service Outage,Pending,31.16,2
+42,Anthony Francis,Technical Support,Pending,7.96,5
+43,Samantha Joseph,Account Access,Escalated,13.74,1
+44,Charles Long,Service Outage,Resolved,15.93,3
+45,Laura Wu,Service Outage,Escalated,10.88,1
+46,Michelle Wright,Service Outage,Pending,25.98,5
+47,Joanna Lawson,Billing,Resolved,33.45,5
+48,Gary Heath,Service Outage,Resolved,2.87,4
+49,Billy Potter,Account Access,Escalated,30.55,4
+50,Matthew Taylor,Account Access,Resolved,50.39,1
+51,Susan Harris,Billing,Resolved,35.43,5
+52,Michael Ochoa,Service Outage,Pending,54.28,3
+53,Rachel Roberts,Billing,Pending,32.12,2
+54,Donald Murray,Billing,Resolved,38.65,3
+55,Sharon Garza,Account Access,Resolved,12.2,1
+56,Tonya Castro,Technical Support,Pending,47.36,4
+57,Laura Nunez,Service Outage,Resolved,3.46,3
+58,Frank Escobar PhD,Technical Support,Escalated,49.8,1
+59,Jerry White,Billing,Resolved,43.5,2
+60,Adam Kemp,Service Outage,Pending,6.43,3
+61,Helen French,Billing,Escalated,6.5,2
+62,Joe Perry,Technical Support,Resolved,25.18,1
+63,Brandi Ward,Account Access,Escalated,6.49,3
+64,Jeremy West,Billing,Escalated,40.58,1
+65,Austin Hobbs,Account Access,Escalated,7.36,1
+66,Sharon Cook,Account Access,Resolved,28.63,3
+67,Gary Alexander,Service Outage,Escalated,52.62,2
+68,Mrs. Sharon Bradford,Account Access,Resolved,29.2,1
+69,Sierra Morris,Service Outage,Resolved,12.55,5
+70,Daniel Johnson,Billing,Escalated,43.32,5
+71,Christina Valdez PhD,Account Access,Pending,4.53,1
+72,Lorraine Coleman,Billing,Resolved,37.21,5
+73,Laurie Crane,Account Access,Escalated,32.44,5
+74,Edgar Kramer,Service Outage,Pending,26.66,5
+75,Michael Edwards,Technical Support,Resolved,52.36,2
+76,Sheila Cooke,Service Outage,Pending,42.99,1
+77,Lori Armstrong,Service Outage,Pending,36.59,1
+78,Marvin Robles,Billing,Pending,39.28,3
+79,Kevin Flynn,Service Outage,Resolved,52.85,2
+80,James Miles,Billing,Escalated,18.96,5
+81,Shelly Horne,Technical Support,Escalated,21.7,4
+82,Richard Washington,Billing,Resolved,17.96,2
+83,Audrey Griffith,Service Outage,Resolved,13.96,2
+84,Michelle Cole,Account Access,Resolved,25.03,5
+85,Eugene Jones,Billing,Resolved,9.61,2
+86,Emily Mccormick,Account Access,Escalated,57.1,4
+87,Chad Reed,Billing,Resolved,24.6,4
+88,Alisha Gonzales,Service Outage,Resolved,50.47,2
+89,Michael Miller,Service Outage,Resolved,26.34,5
+90,Laurie Jacobs,Service Outage,Escalated,30.88,3
+91,James Riley MD,Account Access,Resolved,22.02,5
+92,William Glenn,Account Access,Resolved,36.06,3
+93,Jennifer Cannon,Account Access,Resolved,4.2,1
+94,Lindsey Morse,Service Outage,Pending,57.25,4
+95,Jamie Foster,Account Access,Pending,32.94,4
+96,Jeffery Simmons,Service Outage,Pending,28.19,1
+97,Robert Torres,Service Outage,Escalated,33.11,5
+98,Nicole Miles,Service Outage,Pending,34.96,2
+99,Robert Nichols,Service Outage,Pending,43.93,1
+100,Jonathan Jones,Account Access,Escalated,37.02,2
+101,James Mueller Jr.,Account Access,Escalated,11.46,1
+102,Carolyn Davies MD,Technical Support,Pending,33.86,3
+103,Lisa Moore,Service Outage,Escalated,55.53,4
+104,Jacob Kennedy,Account Access,Pending,55.9,5
+105,Andrew Maldonado,Service Outage,Pending,59.34,1
+106,Donna Williams,Billing,Pending,49.39,5
+107,Mary Estes,Technical Support,Pending,34.71,3
+108,Adam Myers,Billing,Pending,23.22,2
+109,Steven Robinson,Billing,Escalated,30.54,5
+110,Laura Saunders MD,Account Access,Escalated,45.01,3
+111,James Salazar,Service Outage,Pending,57.65,2
+112,Jeffrey Stanley,Technical Support,Pending,40.95,3
+113,Penny Hester,Technical Support,Pending,15.0,5
+114,Garrett Baker,Service Outage,Escalated,58.91,1
+115,Carly Mendez,Billing,Pending,57.16,3
+116,Jonathan Hoffman,Billing,Pending,40.86,5
+117,Kyle Smith,Service Outage,Resolved,34.96,4
+118,Douglas Massey,Technical Support,Pending,36.52,5
+119,Jennifer Daniel,Account Access,Pending,28.53,2
+120,Emily Hurley,Account Access,Escalated,31.56,4
+121,Yvonne Bishop,Service Outage,Resolved,23.03,5
+122,Nina Johnson,Billing,Escalated,49.26,3
+123,Edward Ryan,Service Outage,Escalated,54.19,1
+124,Melissa Martin,Technical Support,Pending,3.34,2
+125,Zachary Williams,Technical Support,Pending,14.33,2
+126,William Fernandez,Service Outage,Resolved,41.03,2
+127,Keith Bailey,Technical Support,Pending,9.8,2
+128,Pamela Carter,Account Access,Escalated,23.73,3
+129,Nancy Ross,Billing,Resolved,32.96,3
+130,Glenn Clark,Service Outage,Resolved,55.57,2
+131,Sarah Campbell,Technical Support,Escalated,49.99,2
+132,Sara Carpenter,Billing,Pending,25.13,5
+133,Shawn Gordon,Account Access,Resolved,30.9,1
+134,John Pruitt,Service Outage,Resolved,9.36,3
+135,Lisa Cox,Service Outage,Escalated,5.65,4
+136,Kathryn Kirby,Billing,Escalated,29.45,3
+137,Sarah Burton,Billing,Resolved,3.94,3
+138,Felicia Gonzalez,Service Outage,Escalated,57.17,5
+139,Jeanne Rodriguez,Technical Support,Pending,14.63,3
+140,Steven Campbell,Technical Support,Resolved,38.19,5
+141,David Cochran,Technical Support,Escalated,8.39,3
+142,Peter Duncan,Technical Support,Pending,34.01,4
+143,Chad Livingston,Account Access,Resolved,34.27,5
+144,Brenda Tapia,Technical Support,Pending,12.85,3
+145,Kimberly Williams,Technical Support,Escalated,55.11,2
+146,Jeffrey Jackson DDS,Service Outage,Pending,30.5,4
+147,Michael Ortega,Service Outage,Resolved,12.55,4
+148,Jacob Edwards,Technical Support,Escalated,18.51,5
+149,Laura Willis,Billing,Resolved,13.06,4
+150,James Evans,Service Outage,Resolved,54.01,3
+151,Margaret Smith,Technical Support,Resolved,31.75,4
+152,Robert Hughes,Service Outage,Resolved,44.97,5
+153,Paul Ritter,Account Access,Pending,50.22,3
+154,Tonya Hernandez,Billing,Escalated,57.47,3
+155,Jennifer Patterson,Billing,Resolved,40.37,2
+156,Julia Newton,Billing,Pending,53.16,4
+157,Thomas Curry,Billing,Resolved,30.27,2
+158,Monique Allen,Service Outage,Escalated,27.47,4
+159,Brenda Andersen,Service Outage,Escalated,10.95,5
+160,Brandon Burton,Billing,Escalated,4.6,3
+161,Lisa Kelly,Service Outage,Escalated,19.28,3
+162,Lisa Guerrero,Account Access,Escalated,11.2,5
+163,Victor Wells,Account Access,Escalated,33.43,4
+164,Charlene Kelly,Account Access,Escalated,26.78,3
+165,Jeremy Hall,Service Outage,Escalated,54.08,3
+166,Tony Smith,Billing,Resolved,9.26,3
+167,Kevin Mendoza,Billing,Pending,25.76,1
+168,Bruce Gregory,Account Access,Resolved,13.08,5
+169,Vanessa Robertson,Billing,Escalated,35.73,1
+170,Lisa Roth,Technical Support,Pending,3.87,4
+171,Julia Dennis,Account Access,Escalated,20.91,2
+172,Scott Guzman,Account Access,Pending,49.51,3
+173,Daniel Mcdonald Jr.,Service Outage,Resolved,20.0,3
+174,Courtney Ingram,Technical Support,Pending,34.96,2
+175,Joel Wilson,Technical Support,Pending,40.48,1
+176,Carlos Johnson,Account Access,Resolved,22.1,2
+177,Nicholas Brown,Billing,Escalated,42.77,2
+178,Jennifer Perez,Technical Support,Pending,31.24,3
+179,Taylor Gilbert,Account Access,Resolved,34.25,1
+180,Billy Fields,Service Outage,Resolved,33.47,4
+181,Jamie Jenkins,Technical Support,Pending,17.73,1
+182,Henry Jackson,Billing,Pending,37.49,5
+183,Jason Johnson,Billing,Pending,51.22,5
+184,Emily Gonzalez,Account Access,Pending,37.84,4
+185,Rebecca Frey,Billing,Resolved,33.27,5
+186,Colleen Woods,Service Outage,Escalated,3.27,1
+187,Sean Moore,Account Access,Resolved,36.14,4
+188,Traci Brown,Technical Support,Resolved,40.69,2
+189,Toni Griffin,Account Access,Pending,27.62,2
+190,Connor Gross,Technical Support,Resolved,26.9,4
+191,Isaac Willis,Technical Support,Pending,40.86,4
+192,Samuel Walker,Technical Support,Escalated,58.52,1
+193,Alexa Goodman,Billing,Escalated,42.7,3
+194,Michelle Johnson,Service Outage,Escalated,8.88,3
+195,Tammy Meyers,Technical Support,Resolved,25.16,5
+196,Jacqueline Scott,Account Access,Escalated,48.88,4
+197,Michael Thompson,Technical Support,Resolved,36.23,1
+198,James Orozco,Technical Support,Escalated,41.92,1
+199,Jacob Foster,Billing,Resolved,44.66,1
+200,Charles Howard,Technical Support,Resolved,51.65,2
+201,Rebecca Ramirez,Service Outage,Pending,19.64,3
+202,Alexis Jones,Service Outage,Escalated,14.15,3
+203,Edward Smith,Service Outage,Pending,20.91,2
+204,Denise Mejia,Billing,Escalated,11.01,3
+205,Tricia Johnson,Technical Support,Pending,25.2,2
+206,Ronald Delgado,Account Access,Escalated,26.66,5
+207,Carrie Sandoval,Account Access,Escalated,6.37,3
+208,Rachel Smith,Account Access,Pending,40.87,1
+209,Lisa Browning,Billing,Escalated,51.76,1
+210,Mark Rodgers,Account Access,Resolved,56.6,5
+211,Timothy Neal,Service Outage,Resolved,4.49,3
+212,Melissa West,Billing,Resolved,36.27,4
+213,Laura Hudson,Billing,Escalated,53.44,1
+214,Christopher Wilson,Technical Support,Resolved,49.8,2
+215,William Moyer,Technical Support,Escalated,42.2,1
+216,Dana Moore,Technical Support,Escalated,40.64,5
+217,Bernard Scott,Account Access,Resolved,55.77,4
+218,Nicholas Maldonado,Technical Support,Pending,29.32,4
+219,Justin Sawyer,Technical Support,Escalated,53.26,3
+220,Michael Banks,Technical Support,Pending,23.24,2
+221,Kristen Cain,Technical Support,Resolved,48.52,2
+222,Kim Molina,Service Outage,Pending,16.58,2
+223,Emily Cordova,Account Access,Pending,52.68,2
+224,Jeremy Oliver,Billing,Escalated,34.98,3
+225,Yolanda Rodgers,Billing,Pending,15.09,1
+226,Chad Marquez,Billing,Pending,39.81,2
+227,Tina Simpson,Service Outage,Escalated,33.46,4
+228,Jessica Mcneil,Billing,Resolved,21.46,4
+229,Francisco Smith,Account Access,Escalated,9.09,5
+230,Kyle Mann,Account Access,Escalated,47.28,3
+231,Tammy Jensen,Account Access,Escalated,39.24,4
+232,Frank Hill,Service Outage,Resolved,9.1,4
+233,Cynthia Edwards,Technical Support,Pending,41.66,2
+234,Vincent Rodriguez,Service Outage,Escalated,56.41,2
+235,Christopher Hernandez,Account Access,Escalated,18.6,1
+236,Brandi Wall,Technical Support,Escalated,38.1,2
+237,Jennifer Elliott,Account Access,Pending,13.97,1
+238,Douglas Zavala,Billing,Escalated,42.94,5
+239,Brittany Rivera,Account Access,Resolved,47.6,4
+240,Sandra Patton,Account Access,Pending,18.6,2
+241,Michael Martinez,Billing,Resolved,17.51,3
+242,Aaron Vaughan,Service Outage,Escalated,38.95,1
+243,Amanda Douglas,Billing,Escalated,41.56,5
+244,Jeffrey Ortiz,Account Access,Escalated,32.94,3
+245,Tiffany Velazquez,Billing,Pending,21.94,1
+246,Christopher Page,Technical Support,Resolved,7.64,5
+247,Susan Holland,Technical Support,Pending,33.68,5
+248,Heather Lamb,Account Access,Resolved,36.37,1
+249,Christopher Simmons,Technical Support,Pending,53.51,3
+250,Rachel Edwards,Billing,Pending,35.44,3
+251,Matthew Cooper,Billing,Pending,56.06,2
+252,Shannon Parker,Billing,Resolved,31.93,3
+253,Latoya Rich,Service Outage,Escalated,12.67,1
+254,Kenneth Brown,Billing,Escalated,37.58,2
+255,Brittany Jones,Account Access,Pending,46.13,2
+256,Tricia Bush,Account Access,Escalated,45.98,5
+257,Adam Fernandez,Service Outage,Escalated,40.22,1
+258,David Barton,Technical Support,Resolved,42.14,3
+259,Wendy Reeves,Billing,Escalated,44.53,3
+260,Bradley Reed,Account Access,Escalated,24.49,5
+261,Jamie Berger,Technical Support,Pending,9.13,2
+262,Andrea Heath,Service Outage,Escalated,21.21,5
+263,Tracey Evans,Account Access,Resolved,13.86,1
+264,Stephen Thomas,Service Outage,Escalated,53.47,5
+265,Justin Grimes,Service Outage,Escalated,29.59,1
+266,Ronnie Warner,Account Access,Escalated,26.94,5
+267,Brian Mann,Service Outage,Pending,30.06,3
+268,Elaine Davis,Service Outage,Escalated,6.85,5
+269,April Williams,Account Access,Resolved,27.5,5
+270,Denise Hill,Technical Support,Pending,5.31,4
+271,Victoria Johnson,Billing,Pending,6.16,5
+272,Victoria Reyes DDS,Billing,Escalated,49.48,3
+273,Jacob Lopez,Service Outage,Pending,50.18,5
+274,Gloria Yu,Service Outage,Escalated,15.37,4
+275,Cassandra Hill,Billing,Pending,34.12,5
+276,Jesse Ward,Billing,Pending,39.81,3
+277,Paul Williams,Account Access,Pending,41.24,4
+278,Janet Campbell,Technical Support,Resolved,32.47,3
+279,Michael Mejia,Service Outage,Resolved,17.49,1
+280,Isaac Moon,Billing,Pending,45.11,5
+281,Erin Valdez,Technical Support,Pending,55.9,5
+282,Allen Woods,Billing,Escalated,45.02,4
+283,Adam Anderson,Billing,Escalated,21.09,5
+284,James Robinson,Billing,Escalated,36.79,4
+285,Terri Young,Service Outage,Resolved,55.21,3
+286,Eric Cook,Account Access,Pending,7.8,3
+287,Kimberly Rocha,Technical Support,Pending,32.21,4
+288,Allison Evans,Service Outage,Escalated,6.91,2
+289,Timothy Bowen,Service Outage,Pending,8.72,3
+290,Carol Young,Billing,Resolved,34.76,3
+291,Jessica Mcdowell,Service Outage,Resolved,19.46,3
+292,Joseph Leonard,Billing,Escalated,5.66,2
+293,Mrs. Terri Miranda,Billing,Resolved,4.57,5
+294,Christine Wilson,Billing,Resolved,5.08,5
+295,Dalton Bentley,Service Outage,Pending,4.91,3
+296,Nicholas Archer,Billing,Resolved,31.36,5
+297,Larry Freeman,Billing,Escalated,12.34,1
+298,Jeremy Simpson,Service Outage,Resolved,51.27,1
+299,Garrett Wagner,Service Outage,Resolved,46.63,5
+300,David Taylor,Technical Support,Resolved,4.89,5
+301,Jeffery Hubbard,Billing,Pending,52.39,1
+302,Frederick Ramirez,Billing,Pending,59.64,2
+303,Jasmine Jackson,Account Access,Escalated,26.61,4
+304,Christopher Harris,Technical Support,Escalated,55.29,1
+305,Daniel Barrett,Service Outage,Resolved,26.67,2
+306,Jesus Smith,Account Access,Pending,6.14,4
+307,Valerie Evans,Billing,Resolved,22.3,2
+308,Catherine Patel,Technical Support,Resolved,50.73,1
+309,Samuel Edwards,Account Access,Pending,55.68,1
+310,Andrea Thompson,Service Outage,Pending,55.63,4
+311,Jack Miller,Account Access,Escalated,10.71,3
+312,Ethan Wilson,Account Access,Resolved,33.05,1
+313,Adrian Harris II,Technical Support,Escalated,3.95,4
+314,Tara Chambers,Account Access,Resolved,52.17,1
+315,Elizabeth Baker,Account Access,Escalated,33.87,5
+316,Jocelyn Cardenas,Account Access,Escalated,2.85,2
+317,Daniel Howell,Service Outage,Pending,9.56,4
+318,Mark Potter,Service Outage,Resolved,7.89,1
+319,Christopher Wells,Account Access,Resolved,24.5,3
+320,Steven Ayala,Billing,Escalated,41.94,1
+321,Michael Herrera,Billing,Pending,15.61,3
+322,Christine Hughes,Service Outage,Resolved,58.36,5
+323,Amy Greer,Service Outage,Resolved,16.8,2
+324,Timothy Shah,Account Access,Escalated,52.48,5
+325,Michelle Ramsey,Billing,Escalated,19.58,1
+326,Jonathan Smith,Technical Support,Pending,56.89,3
+327,Sherry Foster MD,Account Access,Escalated,37.41,5
+328,Alexander Martinez,Account Access,Pending,12.26,2
+329,Amy Tucker,Service Outage,Escalated,55.06,5
+330,Frank Ramirez,Billing,Escalated,29.61,5
+331,Meagan Williamson,Billing,Pending,50.26,1
+332,Jose Cox,Technical Support,Escalated,5.3,2
+333,Justin Kennedy,Technical Support,Pending,28.5,3
+334,Scott Chase,Account Access,Pending,46.05,3
+335,Marcus Davis,Billing,Escalated,58.66,3
+336,Laura Miller,Account Access,Pending,9.92,4
+337,Becky Tucker,Billing,Escalated,47.72,5
+338,Susan Johnson PhD,Billing,Pending,24.95,3
+339,Matthew Cobb,Billing,Resolved,15.71,4
+340,Paul Dorsey,Billing,Pending,29.02,2
+341,Julian Robinson,Service Outage,Resolved,54.85,3
+342,Patrick Middleton,Technical Support,Escalated,57.17,4
+343,Susan Wilson,Service Outage,Resolved,53.73,3
+344,Douglas Martinez,Billing,Resolved,58.23,4
+345,Lindsey Johnson,Account Access,Escalated,7.21,2
+346,David Porter,Account Access,Escalated,42.24,2
+347,Tiffany Humphrey,Account Access,Pending,15.91,3
+348,Jamie Coffey,Billing,Resolved,50.14,3
+349,Jose Harris,Service Outage,Escalated,49.3,5
+350,Craig Cooper,Service Outage,Escalated,59.6,3
+351,Margaret Brown,Service Outage,Resolved,24.14,5
+352,David Gomez,Account Access,Pending,9.04,3
+353,Douglas White,Service Outage,Escalated,17.21,1
+354,Mr. Anthony Daniels,Account Access,Pending,53.93,5
+355,Alexis Hardy,Billing,Resolved,5.3,4
+356,Sharon Russell,Billing,Escalated,53.94,4
+357,Renee Hunter,Billing,Resolved,51.18,2
+358,Sarah Haney,Billing,Pending,7.64,5
+359,Nancy Lewis,Technical Support,Resolved,54.38,1
+360,Lindsey Yates,Service Outage,Pending,5.37,5
+361,Frank Martinez,Technical Support,Resolved,42.46,2
+362,Thomas Sandoval,Account Access,Resolved,52.82,5
+363,Isaac Boyd,Technical Support,Escalated,25.57,3
+364,Cameron Klein,Technical Support,Pending,51.5,5
+365,Holly Bright,Account Access,Resolved,40.47,3
+366,Stephen Watkins,Billing,Escalated,52.35,5
+367,Timothy Thomas,Billing,Pending,52.03,4
+368,Andrew Mcclain,Technical Support,Pending,28.63,1
+369,Austin Martinez,Account Access,Resolved,11.26,3
+370,Danny Jones,Account Access,Resolved,52.61,4
+371,Alyssa Montgomery,Billing,Pending,54.33,4
+372,Patricia Harvey,Technical Support,Escalated,41.54,1
+373,Brenda Cook,Service Outage,Resolved,51.24,1
+374,Joshua Keller,Billing,Escalated,41.0,2
+375,Brian Carney,Service Outage,Resolved,43.21,4
+376,Christine Frank,Technical Support,Escalated,50.98,3
+377,Karen Carter,Service Outage,Pending,31.65,3
+378,Eric Montgomery,Billing,Escalated,27.25,3
+379,Christine Larson,Account Access,Resolved,21.96,4
+380,Sheila Tucker,Technical Support,Pending,36.74,3
+381,Marie Ramos,Billing,Resolved,42.05,3
+382,Michael Hanson,Service Outage,Pending,7.32,2
+383,Rodney Lee,Service Outage,Escalated,15.96,5
+384,Kristina Pena,Billing,Escalated,53.99,4
+385,Kathleen Guzman,Service Outage,Escalated,59.42,3
+386,Bryan Bennett,Account Access,Pending,26.13,2
+387,Amy Ford,Service Outage,Pending,40.32,5
+388,Leslie Sexton,Billing,Resolved,6.08,5
+389,Daniel Garcia,Account Access,Pending,34.3,2
+390,Renee Cooke,Account Access,Escalated,27.64,3
+391,Samantha Gallegos,Service Outage,Pending,53.36,4
+392,James Roberson,Technical Support,Resolved,59.39,2
+393,Nathan Cooke,Service Outage,Pending,40.63,3
+394,Henry Padilla,Technical Support,Escalated,50.18,3
+395,Nicole Cardenas,Account Access,Pending,46.78,5
+396,John Hansen,Account Access,Escalated,7.11,3
+397,William Meyers,Technical Support,Resolved,26.21,5
+398,Lisa Leonard,Technical Support,Escalated,27.88,2
+399,Tammy Roberts,Billing,Escalated,50.03,4
+400,James Gutierrez,Technical Support,Resolved,22.09,5
+401,Kristen Irwin,Billing,Escalated,24.32,5
+402,Brittany Walker,Account Access,Resolved,40.95,3
+403,Brian Lee,Account Access,Escalated,4.72,2
+404,Karen Swanson,Technical Support,Escalated,54.29,5
+405,Angela Hunt,Service Outage,Pending,46.59,2
+406,James Campbell,Account Access,Pending,17.66,5
+407,Robin Clark,Technical Support,Escalated,9.51,3
+408,Katherine Ritter,Technical Support,Pending,17.52,3
+409,Mrs. Stephanie Burke,Technical Support,Pending,7.78,5
+410,Margaret King,Service Outage,Pending,51.19,2
+411,Kelly Ponce,Account Access,Pending,40.96,3
+412,Joshua Avila,Account Access,Resolved,38.19,3
+413,Benjamin Navarro Jr.,Service Outage,Pending,12.05,4
+414,Mrs. Alexandra Jarvis,Technical Support,Resolved,58.0,3
+415,Brian Lee,Account Access,Pending,56.44,5
+416,Eric Perez,Service Outage,Pending,46.15,1
+417,Kevin Cisneros,Billing,Pending,30.95,3
+418,Cheryl Mendoza,Billing,Resolved,3.51,5
+419,Bernard Jones,Billing,Pending,12.72,5
+420,Ariana Webster,Account Access,Pending,42.86,4
+421,Kevin Guerrero,Service Outage,Pending,8.61,4
+422,David Paul,Account Access,Escalated,18.75,4
+423,Justin Shepard,Account Access,Pending,14.61,2
+424,Hannah Estrada,Technical Support,Pending,42.96,1
+425,Ryan Sellers,Service Outage,Resolved,42.21,5
+426,Marie Perez,Billing,Escalated,35.0,4
+427,Jacob Sawyer,Account Access,Escalated,50.3,1
+428,Rebecca Lewis,Service Outage,Resolved,2.55,5
+429,Brandi Baker,Billing,Resolved,17.0,2
+430,Denise Cruz,Billing,Resolved,38.38,2
+431,Sarah Smith,Service Outage,Escalated,14.81,5
+432,Kristen Todd,Billing,Pending,13.61,5
+433,Alexis Evans,Technical Support,Escalated,53.27,1
+434,Kenneth Flores,Technical Support,Resolved,32.76,2
+435,Heather Ellis,Technical Support,Escalated,20.76,5
+436,Cassidy Garcia,Billing,Pending,13.4,2
+437,William Williams,Technical Support,Pending,13.76,3
+438,Fred Rice,Service Outage,Escalated,36.21,1
+439,Lisa Tucker,Billing,Resolved,13.36,5
+440,Hannah Obrien,Service Outage,Resolved,3.13,2
+441,Dale Carpenter,Technical Support,Escalated,19.02,5
+442,Joseph Daniels,Account Access,Escalated,14.58,5
+443,Linda Johnson,Account Access,Pending,44.94,5
+444,Walter Taylor,Billing,Resolved,56.97,2
+445,Mark Figueroa,Technical Support,Escalated,44.74,1
+446,Brenda Sanchez,Technical Support,Pending,52.23,2
+447,Austin Alexander,Technical Support,Pending,20.85,2
+448,Shaun Logan,Account Access,Escalated,5.38,2
+449,Gabriel Stephens,Billing,Resolved,24.0,5
+450,Nancy Ford,Billing,Escalated,55.95,2
+451,Melanie Rodriguez,Account Access,Resolved,59.65,4
+452,Richard Clark,Technical Support,Escalated,4.18,1
+453,Sheila Schmidt,Service Outage,Escalated,17.06,5
+454,Janice Rice,Billing,Escalated,39.98,1
+455,Sherry Moore,Service Outage,Resolved,35.67,2
+456,Ian Smith,Account Access,Escalated,28.59,4
+457,Taylor Rodriguez,Account Access,Resolved,54.09,3
+458,Erik Turner,Billing,Resolved,49.02,4
+459,Connie Hall,Technical Support,Escalated,48.21,4
+460,Michael Reyes,Technical Support,Escalated,38.01,1
+461,Joshua Mason,Billing,Escalated,48.19,3
+462,Valerie Perez,Account Access,Pending,50.28,2
+463,Tina Cruz,Billing,Escalated,31.15,2
+464,Nicole Porter,Technical Support,Pending,3.98,5
+465,Jane Osborne,Service Outage,Pending,40.28,5
+466,Heather Wolf,Service Outage,Pending,29.52,5
+467,Michael Hunt,Service Outage,Pending,46.7,5
+468,Krista Moreno,Technical Support,Resolved,16.26,5
+469,John Jackson,Account Access,Pending,19.45,2
+470,Julie Davis,Service Outage,Escalated,57.24,3
+471,Harold Maldonado,Billing,Escalated,17.14,2
+472,Lisa Morales,Account Access,Pending,9.73,3
+473,Lance Reyes,Billing,Resolved,45.73,1
+474,Ms. Dana Terry MD,Billing,Escalated,55.54,1
+475,Kathleen Hurst,Billing,Escalated,36.85,1
+476,Christopher Callahan,Service Outage,Pending,32.35,5
+477,George Maldonado,Billing,Pending,16.37,1
+478,Caitlin Jensen,Technical Support,Escalated,17.48,3
+479,Michael Cortez,Account Access,Resolved,18.33,3
+480,Cory Jones,Billing,Resolved,41.93,4
+481,Frank Wagner,Service Outage,Pending,10.72,1
+482,Christopher Haas,Technical Support,Resolved,44.35,2
+483,Dr. Beth Harris,Technical Support,Escalated,19.87,4
+484,Mary Fernandez,Service Outage,Escalated,10.69,1
+485,Jamie Craig,Account Access,Escalated,9.41,3
+486,Andrea Adams,Billing,Resolved,2.29,3
+487,Robert Johnson,Billing,Escalated,27.68,5
+488,Lisa Compton,Account Access,Pending,34.99,2
+489,Elizabeth Nguyen,Service Outage,Resolved,23.62,1
+490,Jeffrey Navarro,Technical Support,Escalated,4.72,1
+491,Mariah Davis,Account Access,Escalated,34.56,2
+492,Jessica Harrington,Billing,Resolved,32.82,3
+493,Gloria Cummings,Billing,Pending,17.52,3
+494,Sarah Rodriguez,Account Access,Escalated,29.01,5
+495,Diana Roy,Service Outage,Resolved,3.37,5
+496,Lindsay Mora,Billing,Escalated,34.06,3
+497,Patricia Briggs,Account Access,Resolved,12.04,4
+498,Joseph Stephenson,Account Access,Resolved,23.23,3
+499,Laura Wallace,Service Outage,Pending,12.28,5
+500,Eric Morgan,Service Outage,Resolved,53.08,3
+501,Lori Lee,Technical Support,Pending,54.7,1
+502,William Oliver,Technical Support,Escalated,19.07,2
+503,Andrew Case MD,Service Outage,Resolved,30.4,1
+504,Tamara Long,Account Access,Resolved,40.29,3
+505,Norman Gordon,Billing,Escalated,50.23,3
+506,Cameron Wood,Account Access,Pending,26.25,5
+507,Steven Peck,Service Outage,Escalated,9.36,5
+508,Karen Williams,Technical Support,Resolved,41.29,5
+509,Katelyn Elliott,Service Outage,Resolved,2.73,2
+510,David Mcconnell,Technical Support,Resolved,20.49,5
+511,John Mcmahon,Billing,Resolved,47.55,2
+512,Anthony Harris,Technical Support,Escalated,34.27,5
+513,James Morse,Account Access,Escalated,59.86,4
+514,Wesley Santiago,Account Access,Pending,56.06,2
+515,Dr. Justin Wong,Technical Support,Escalated,34.41,2
+516,Erika Johnson,Account Access,Escalated,32.53,1
+517,Whitney Campbell,Technical Support,Escalated,57.06,1
+518,Linda Tapia,Account Access,Pending,12.45,3
+519,Kelly Romero MD,Technical Support,Escalated,36.35,3
+520,William Stewart,Service Outage,Escalated,30.18,5
+521,Ashley Duarte,Technical Support,Pending,24.37,1
+522,Mercedes May,Technical Support,Pending,33.91,1
+523,Leslie Kennedy,Account Access,Pending,44.08,1
+524,Jeremy Young,Billing,Pending,16.88,2
+525,Robert Alvarado,Billing,Pending,5.79,5
+526,Travis Hubbard,Technical Support,Pending,42.46,5
+527,Eric Gay,Account Access,Resolved,9.5,4
+528,Keith Thompson,Account Access,Escalated,10.12,1
+529,Rodney Mooney,Account Access,Pending,38.75,2
+530,Anthony Norris PhD,Account Access,Resolved,51.22,1
+531,Andrew Johnston,Technical Support,Pending,45.31,1
+532,Eric Pierce,Technical Support,Resolved,7.2,2
+533,Mary Benton,Account Access,Pending,30.75,5
+534,Lauren Mcconnell,Billing,Resolved,24.67,5
+535,Susan Snyder PhD,Service Outage,Resolved,23.48,2
+536,Alexis Doyle,Account Access,Resolved,51.48,4
+537,Christopher Hardin,Technical Support,Escalated,14.96,2
+538,Patricia Johnson,Billing,Pending,34.84,2
+539,Michael Frazier,Billing,Resolved,41.72,1
+540,Julie Wallace,Service Outage,Pending,45.42,2
+541,Mr. Stephen Baxter,Account Access,Resolved,23.32,2
+542,Dr. Donna Hubbard MD,Service Outage,Pending,58.81,5
+543,Stephanie Strong,Service Outage,Pending,3.27,4
+544,Mr. William Salinas,Billing,Pending,17.76,3
+545,Michael Garcia,Account Access,Pending,49.0,2
+546,Faith Carrillo,Account Access,Pending,22.39,3
+547,Lisa Williams,Service Outage,Pending,11.1,2
+548,Lisa Fleming,Billing,Pending,17.19,5
+549,Garrett Watkins,Service Outage,Escalated,23.53,5
+550,Jessica Miller,Billing,Pending,28.97,4
+551,Jonathan King,Billing,Escalated,30.07,5
+552,Anthony Price,Technical Support,Resolved,36.63,1
+553,Sabrina Bailey,Service Outage,Pending,44.64,2
+554,Todd Shaffer,Billing,Resolved,28.8,5
+555,Breanna Wheeler,Technical Support,Resolved,39.55,3
+556,Paul Hooper,Account Access,Escalated,41.61,1
+557,Scott Morrow,Billing,Pending,15.1,3
+558,Kyle Stark,Service Outage,Resolved,9.34,5
+559,Jennifer Garcia,Technical Support,Resolved,31.0,5
+560,Mark Jackson,Account Access,Escalated,7.34,1
+561,Wendy Lozano,Technical Support,Escalated,12.01,1
+562,Joshua Esparza,Account Access,Escalated,10.73,2
+563,Justin Pennington,Service Outage,Resolved,8.74,1
+564,Sydney Johns,Service Outage,Pending,28.47,1
+565,Christopher Goodwin,Billing,Escalated,5.43,3
+566,Debbie Mitchell,Technical Support,Resolved,54.75,2
+567,Carol Bell,Billing,Escalated,52.76,1
+568,Amy Morse,Technical Support,Escalated,21.64,4
+569,David Ritter,Account Access,Escalated,7.64,1
+570,Seth Schmidt,Service Outage,Pending,23.08,5
+571,Matthew Bates,Billing,Escalated,3.06,4
+572,Donna Rogers,Account Access,Resolved,43.92,2
+573,Kelsey Gardner,Technical Support,Escalated,59.79,3
+574,Norman Smith,Account Access,Resolved,28.88,2
+575,Angela Bell,Account Access,Escalated,30.54,4
+576,Jennifer Flores,Technical Support,Pending,30.92,4
+577,James Miller,Billing,Resolved,30.48,2
+578,Mark Cordova,Technical Support,Resolved,57.04,4
+579,Tiffany Stokes,Service Outage,Resolved,57.86,5
+580,Mrs. Kathleen Cox MD,Technical Support,Escalated,8.74,5
+581,Tanya Anderson,Account Access,Escalated,45.92,1
+582,Steve Rodriguez,Account Access,Pending,58.81,3
+583,David James,Account Access,Pending,37.46,1
+584,Karen Jimenez,Technical Support,Pending,8.33,3
+585,Steven Turner,Account Access,Resolved,15.71,3
+586,Daniel Estrada,Account Access,Resolved,20.95,5
+587,Lori Howard,Billing,Escalated,52.22,1
+588,Stephanie Long,Technical Support,Pending,24.12,3
+589,Abigail Grimes,Account Access,Escalated,18.21,2
+590,Chris Smith,Service Outage,Resolved,12.34,5
+591,Judy Rose,Service Outage,Resolved,12.29,3
+592,Dr. Tasha Madden MD,Account Access,Escalated,10.33,4
+593,Jason Roman,Service Outage,Resolved,8.83,3
+594,Corey Gray,Billing,Resolved,41.92,3
+595,Andrew Park,Billing,Escalated,22.63,4
+596,Paul Rodgers,Service Outage,Pending,10.32,1
+597,Chris King,Account Access,Resolved,47.93,5
+598,Angela Young,Technical Support,Pending,15.28,5
+599,Chloe Allen,Billing,Resolved,39.93,5
+600,Andrew Christensen,Billing,Pending,20.4,4
+601,John Stewart,Billing,Resolved,15.82,4
+602,Michael Shea,Account Access,Escalated,4.67,3
+603,Brooke Campos,Billing,Resolved,8.18,3
+604,Nicole Farley,Billing,Resolved,42.56,4
+605,Brian Anderson,Billing,Resolved,17.57,1
+606,Karen Schneider,Service Outage,Escalated,27.6,2
+607,Valerie Johnson,Service Outage,Escalated,8.61,1
+608,Stacey Bullock,Account Access,Pending,15.57,3
+609,Mary Morris,Billing,Resolved,7.26,1
+610,Kyle Banks,Service Outage,Escalated,28.7,5
+611,Elizabeth Smith,Technical Support,Escalated,37.2,1
+612,Katie Jones,Billing,Pending,5.01,2
+613,Paul Mckay,Account Access,Pending,45.25,2
+614,Kimberly Gutierrez,Technical Support,Resolved,16.37,2
+615,Nicholas Gaines,Service Outage,Resolved,17.22,4
+616,John Rios,Service Outage,Resolved,5.15,1
+617,Christopher Parks,Service Outage,Escalated,27.43,4
+618,Lauren Sanders,Account Access,Resolved,38.7,2
+619,Jenna Martin,Billing,Escalated,38.95,2
+620,Zachary Nguyen,Technical Support,Pending,22.52,1
+621,Chad Wheeler,Technical Support,Escalated,14.59,2
+622,Heather Mills,Service Outage,Pending,58.19,3
+623,Patricia Hansen,Technical Support,Resolved,59.59,4
+624,Nancy Gonzalez,Technical Support,Pending,24.71,5
+625,James Huang,Account Access,Escalated,59.58,2
+626,Christopher Johnson,Technical Support,Escalated,11.81,2
+627,Matthew Carter,Technical Support,Resolved,41.03,4
+628,Amanda Riggs,Billing,Resolved,41.75,4
+629,Darlene Crawford,Technical Support,Escalated,4.09,3
+630,Allison Moore,Account Access,Escalated,36.28,1
+631,Kayla Butler,Account Access,Resolved,22.79,1
+632,Crystal Jones,Account Access,Escalated,30.63,1
+633,Joseph Lewis,Billing,Escalated,33.64,5
+634,Denise Shelton,Billing,Resolved,37.62,2
+635,Michael Mendoza,Account Access,Pending,51.66,2
+636,Jason Morrow,Account Access,Pending,9.81,1
+637,Samuel Morgan,Technical Support,Resolved,6.72,4
+638,Bradley Brooks,Service Outage,Pending,15.15,3
+639,Jeffrey Dougherty,Technical Support,Resolved,17.08,3
+640,Thomas Thompson PhD,Service Outage,Pending,48.58,4
+641,Calvin Holloway,Account Access,Resolved,27.0,5
+642,John Mason,Service Outage,Resolved,32.68,2
+643,Jennifer Martin,Service Outage,Resolved,56.84,2
+644,Scott Taylor,Billing,Resolved,47.12,4
+645,Amanda Garrett,Technical Support,Escalated,26.72,3
+646,Robert Hill,Technical Support,Pending,4.33,1
+647,Roy Campbell,Billing,Resolved,6.44,3
+648,Alex Macdonald,Account Access,Resolved,39.68,2
+649,Nicole Bush,Technical Support,Pending,23.12,2
+650,Eric Berger,Account Access,Escalated,2.32,4
+651,Catherine Hill,Technical Support,Resolved,58.74,5
+652,Karen Wilson,Account Access,Resolved,57.95,4
+653,Melissa Ramirez,Service Outage,Pending,49.19,2
+654,Benjamin Tate,Billing,Resolved,47.72,5
+655,Melanie King,Billing,Escalated,19.47,3
+656,Kelli Hale,Service Outage,Escalated,2.03,4
+657,Jenna Knight,Technical Support,Escalated,52.84,3
+658,Garrett Brooks,Billing,Resolved,47.55,5
+659,Emily Hernandez,Billing,Resolved,5.12,2
+660,Timothy Martin,Service Outage,Pending,48.03,2
+661,Courtney King,Service Outage,Escalated,58.78,2
+662,Juan Floyd,Service Outage,Escalated,59.57,2
+663,Jennifer Johns,Billing,Escalated,17.99,1
+664,Sheri Mata,Billing,Pending,31.49,2
+665,Danny Christensen,Service Outage,Pending,51.78,2
+666,Brandon Miller,Account Access,Resolved,45.51,5
+667,Maria Shaw,Service Outage,Resolved,45.15,5
+668,Frank Jones DVM,Technical Support,Resolved,57.23,4
+669,Rachael Miller,Technical Support,Pending,41.04,4
+670,Stuart Gray,Account Access,Resolved,21.07,1
+671,Kimberly Young,Technical Support,Resolved,22.19,3
+672,Peter Palmer,Billing,Escalated,43.75,2
+673,Victor Bryant,Account Access,Pending,53.03,1
+674,Megan Howard,Technical Support,Pending,25.93,3
+675,Molly Figueroa,Service Outage,Escalated,35.22,4
+676,David Hurley,Billing,Resolved,39.73,4
+677,Jessica Miranda,Billing,Resolved,38.85,1
+678,Claire Hunt,Technical Support,Pending,4.08,5
+679,Douglas Evans,Account Access,Resolved,5.67,3
+680,Dylan Martin,Technical Support,Escalated,58.18,3
+681,Brianna Barker,Service Outage,Escalated,43.62,3
+682,Tammy Russell,Technical Support,Pending,37.87,2
+683,Meghan Lane,Technical Support,Escalated,13.2,4
+684,Jamie Odom,Billing,Resolved,23.86,4
+685,Timothy Cox,Billing,Pending,12.84,2
+686,Anthony Jenkins,Technical Support,Resolved,43.0,4
+687,Sally Foley,Billing,Pending,40.13,2
+688,Mary Turner,Account Access,Resolved,25.91,1
+689,Nicole Cross,Technical Support,Resolved,31.91,5
+690,Wendy Carter,Billing,Pending,37.35,3
+691,Melody Conrad,Account Access,Resolved,19.99,3
+692,Matthew Sparks,Billing,Resolved,37.28,2
+693,Erin Weber,Account Access,Pending,51.51,4
+694,Ralph Howard,Technical Support,Resolved,46.45,3
+695,Timothy Grant,Service Outage,Resolved,28.23,3
+696,Matthew Anderson,Technical Support,Pending,34.83,3
+697,Stacie Keith,Account Access,Escalated,17.56,5
+698,Jessica Johnston,Service Outage,Pending,15.2,2
+699,Tina Collins DVM,Account Access,Escalated,2.94,3
+700,Richard Anderson,Technical Support,Escalated,29.65,1
+701,Sabrina Wells,Service Outage,Pending,59.56,4
+702,Mitchell Figueroa,Technical Support,Escalated,31.35,2
+703,Charles Reynolds,Billing,Escalated,30.62,3
+704,Natalie Cline,Billing,Escalated,27.2,4
+705,Carmen Elliott,Service Outage,Escalated,25.35,2
+706,David Lowe,Billing,Pending,5.55,4
+707,Kara Riley,Technical Support,Resolved,4.6,5
+708,Roger Clark,Account Access,Escalated,33.18,2
+709,Adam Adams,Account Access,Resolved,23.66,2
+710,Stephen Nguyen,Account Access,Pending,18.09,3
+711,Charles Davis,Service Outage,Escalated,55.38,5
+712,Cynthia Sims,Billing,Resolved,18.42,3
+713,Ian Hale,Account Access,Pending,10.96,1
+714,Elizabeth Willis,Billing,Escalated,30.76,1
+715,Jodi Lewis,Technical Support,Pending,42.82,5
+716,Michelle Welch,Account Access,Pending,57.25,3
+717,Alexandra Clark DVM,Service Outage,Resolved,18.63,2
+718,Alyssa Camacho,Service Outage,Pending,19.99,2
+719,Lori Garcia,Technical Support,Resolved,5.22,4
+720,Mike Fox,Service Outage,Resolved,3.95,4
+721,David Wilson,Technical Support,Escalated,18.44,3
+722,Theresa Hall,Service Outage,Pending,34.73,3
+723,Judith Hudson,Service Outage,Pending,5.85,3
+724,Joshua Rodriguez,Service Outage,Escalated,37.77,4
+725,Faith Ball,Technical Support,Escalated,17.62,5
+726,William Lee,Technical Support,Pending,46.44,3
+727,Kevin Thompson,Account Access,Escalated,23.39,2
+728,Samantha Holmes,Account Access,Pending,2.52,2
+729,Susan Williams,Service Outage,Escalated,37.94,3
+730,Dustin Holmes,Billing,Resolved,25.13,1
+731,Michael Collins,Account Access,Pending,44.87,1
+732,Sherry Long,Technical Support,Resolved,12.0,4
+733,Judith Wolfe,Billing,Escalated,21.24,3
+734,Sara Miranda,Technical Support,Escalated,16.35,3
+735,Timothy Campos,Billing,Pending,21.47,5
+736,Larry Moore,Service Outage,Pending,2.55,1
+737,Sierra Deleon,Account Access,Resolved,23.11,1
+738,John Wilson,Service Outage,Escalated,15.62,1
+739,Patrick Williams,Billing,Pending,33.48,1
+740,Adrian Eaton,Service Outage,Resolved,49.91,2
+741,Christopher Howe,Billing,Pending,28.74,3
+742,Richard Bush,Billing,Resolved,47.03,3
+743,Michael Foster,Billing,Pending,44.53,5
+744,Nicholas Weaver,Account Access,Resolved,30.95,5
+745,Anthony Whitaker,Technical Support,Pending,35.3,5
+746,Beverly Thompson,Account Access,Escalated,30.15,5
+747,James Edwards,Billing,Pending,9.91,1
+748,Christopher Robbins,Billing,Pending,23.33,5
+749,Carrie Evans,Service Outage,Pending,18.23,4
+750,Janice Holder,Technical Support,Pending,24.88,5
+751,Nicholas Cunningham,Service Outage,Resolved,2.14,3
+752,Jacob Gonzalez,Service Outage,Pending,32.16,5
+753,Karen Webb,Billing,Resolved,7.3,2
+754,Brenda Blevins,Technical Support,Resolved,36.43,1
+755,Alyssa Gomez,Billing,Pending,2.96,4
+756,Jordan Lewis,Service Outage,Pending,16.51,1
+757,Alexis White,Account Access,Resolved,38.4,2
+758,Jacob Martinez,Account Access,Pending,19.0,3
+759,Christopher Barker,Account Access,Resolved,13.05,4
+760,Linda Sims,Billing,Resolved,46.94,4
+761,Richard Steele,Service Outage,Escalated,10.57,5
+762,David Farrell,Account Access,Escalated,40.54,2
+763,Maurice Martinez,Billing,Resolved,59.36,3
+764,Stacie Lopez,Service Outage,Escalated,46.02,5
+765,Martha West,Service Outage,Pending,26.65,3
+766,Mason Hill,Service Outage,Escalated,44.55,3
+767,David Shelton,Account Access,Escalated,14.78,2
+768,Jane Wong,Service Outage,Resolved,47.64,5
+769,Susan Reeves,Service Outage,Resolved,53.47,2
+770,Justin Smith,Account Access,Pending,41.83,1
+771,Adam Eaton,Account Access,Pending,15.89,5
+772,Shane Ellis,Service Outage,Resolved,58.42,3
+773,Elizabeth Martinez,Technical Support,Resolved,25.27,1
+774,Patty Oliver,Service Outage,Resolved,46.28,1
+775,Timothy Williams,Technical Support,Resolved,41.17,4
+776,Karen Galvan,Billing,Pending,48.88,5
+777,Phillip Beasley,Account Access,Escalated,8.95,2
+778,Ann Diaz,Billing,Escalated,21.91,5
+779,Beth Lewis,Billing,Pending,5.03,5
+780,Leslie Booth,Billing,Resolved,22.83,4
+781,Peter Arellano,Service Outage,Resolved,40.75,1
+782,Jason Adkins,Service Outage,Resolved,18.06,3
+783,Javier Pham,Service Outage,Escalated,8.76,4
+784,Ann Barnes,Account Access,Pending,30.1,4
+785,Scott Fields,Account Access,Resolved,16.91,2
+786,Jorge Lester,Account Access,Resolved,21.49,1
+787,Jennifer Garcia,Technical Support,Escalated,58.75,5
+788,Angela Smith,Service Outage,Pending,4.35,3
+789,Jennifer Lewis,Technical Support,Escalated,59.22,1
+790,Christopher Curtis,Account Access,Pending,27.42,3
+791,Eric Sutton,Service Outage,Pending,11.25,4
+792,Nicholas Perry,Technical Support,Pending,44.25,4
+793,Michael Taylor,Billing,Resolved,37.53,4
+794,Sean Hartman,Billing,Resolved,47.79,2
+795,Ashley Payne,Technical Support,Resolved,45.19,5
+796,Mary Jones,Billing,Resolved,5.02,4
+797,Chad Frederick,Technical Support,Resolved,30.39,3
+798,Ann Ingram,Billing,Pending,51.47,5
+799,Julia Bennett,Account Access,Escalated,39.95,5
+800,Kimberly Boyd,Technical Support,Escalated,8.06,1
+801,Alec Perez,Account Access,Resolved,49.73,4
+802,Catherine Rodriguez,Service Outage,Escalated,8.89,4
+803,Sara Tucker,Technical Support,Escalated,22.47,4
+804,Kathy May,Account Access,Resolved,3.44,3
+805,Raymond Hunt,Technical Support,Pending,45.25,5
+806,Jennifer Bryant,Service Outage,Escalated,51.17,1
+807,Becky Aguirre,Service Outage,Escalated,47.18,5
+808,Brandon Frost,Account Access,Pending,9.49,4
+809,Edward Harrison,Service Outage,Pending,49.48,4
+810,Amber Dixon,Service Outage,Escalated,5.11,4
+811,Henry Gordon,Billing,Resolved,50.29,3
+812,Barbara Tyler,Billing,Escalated,18.74,2
+813,Scott Hudson,Service Outage,Pending,44.45,2
+814,William Duncan,Technical Support,Resolved,9.68,3
+815,Ashley Lopez,Billing,Escalated,49.99,3
+816,Jacob Riley,Technical Support,Escalated,48.28,2
+817,Andre Pugh,Billing,Resolved,53.83,4
+818,Andrew Frederick,Billing,Pending,13.01,5
+819,John Smith,Service Outage,Pending,49.26,5
+820,Jeffrey Dougherty,Technical Support,Pending,8.63,5
+821,David Meyers,Account Access,Pending,14.86,2
+822,Mary Kidd,Account Access,Resolved,5.9,2
+823,Mark Salas,Account Access,Resolved,3.0,2
+824,Alex Gibson,Account Access,Pending,3.79,3
+825,Elizabeth Hoffman,Technical Support,Resolved,51.15,2
+826,Anthony Shelton,Technical Support,Pending,12.67,5
+827,Blake Dean,Account Access,Pending,30.87,1
+828,Travis Pacheco,Technical Support,Resolved,35.26,3
+829,Gregory Flores,Billing,Pending,2.94,2
+830,Donald Duarte,Account Access,Resolved,14.23,4
+831,Carly Haynes,Service Outage,Escalated,43.9,2
+832,Scott Rose,Account Access,Resolved,16.12,5
+833,Jason Harris,Billing,Escalated,51.85,5
+834,Shelly Howard,Billing,Escalated,8.52,5
+835,Amanda Griffith,Billing,Escalated,29.67,4
+836,Elizabeth Murphy,Service Outage,Escalated,13.49,4
+837,Melinda Nelson,Technical Support,Resolved,21.5,5
+838,Justin Davis,Service Outage,Resolved,27.1,4
+839,Jesse Jordan,Service Outage,Resolved,9.1,3
+840,Manuel Hooper,Technical Support,Resolved,43.32,4
+841,Joshua Green,Account Access,Pending,41.5,2
+842,Jessica Martinez,Billing,Pending,18.92,1
+843,Cassandra Griffin,Billing,Pending,47.45,1
+844,April Russell,Service Outage,Escalated,37.53,5
+845,Kaitlyn Larson,Technical Support,Pending,34.72,1
+846,James Cooke,Account Access,Escalated,54.36,5
+847,Haley Weaver,Service Outage,Resolved,58.64,1
+848,Monica Kelley,Technical Support,Resolved,53.46,3
+849,Kelly Lopez,Technical Support,Pending,47.81,3
+850,Joan Norman,Technical Support,Escalated,6.73,3
+851,Jason Cordova,Service Outage,Resolved,18.53,1
+852,Hannah Evans,Account Access,Pending,14.86,2
+853,Richard Giles,Account Access,Escalated,41.12,1
+854,Justin Stafford,Technical Support,Resolved,28.84,2
+855,Nicholas Walters,Billing,Escalated,42.31,3
+856,William Mitchell,Billing,Pending,47.35,3
+857,Amanda Richards,Account Access,Resolved,20.81,5
+858,Bryce Miller,Technical Support,Pending,25.89,3
+859,Steven Mitchell,Billing,Escalated,54.33,4
+860,Nancy Bennett,Service Outage,Resolved,52.35,3
+861,Christopher Jones,Technical Support,Escalated,46.84,5
+862,Mrs. Shannon Yates,Technical Support,Escalated,26.85,3
+863,Kathleen Vargas,Billing,Pending,50.8,5
+864,Dr. Katie Sullivan,Account Access,Resolved,12.1,2
+865,Mr. Anthony Sheppard,Account Access,Pending,29.31,3
+866,Denise Bates,Billing,Resolved,5.81,2
+867,Cynthia Donovan,Billing,Pending,2.34,1
+868,Andrew Nelson,Service Outage,Resolved,28.99,3
+869,Angela Jones,Technical Support,Resolved,48.65,3
+870,Amber Herring,Service Outage,Escalated,18.24,4
+871,Jennifer Lowe,Technical Support,Pending,8.29,3
+872,Larry Romero,Technical Support,Resolved,30.19,5
+873,Jason Davis,Service Outage,Escalated,52.9,5
+874,Charles Weaver,Account Access,Escalated,59.42,3
+875,Christine Ramirez,Technical Support,Resolved,28.8,2
+876,Stephanie Myers,Service Outage,Resolved,9.52,4
+877,Jimmy Alexander,Billing,Resolved,5.4,3
+878,Ashley Hernandez,Billing,Resolved,32.5,2
+879,Glenda Craig,Account Access,Pending,43.96,2
+880,Mr. Rick Johnson,Technical Support,Pending,51.47,2
+881,Christine Gardner,Service Outage,Resolved,17.21,4
+882,Sheila Thompson,Account Access,Resolved,4.56,2
+883,George Hodges,Service Outage,Pending,58.07,5
+884,Brandon Johnson,Technical Support,Resolved,39.13,4
+885,William Phillips,Technical Support,Pending,54.52,1
+886,Maureen Green,Account Access,Escalated,35.37,1
+887,Karen Walls,Technical Support,Resolved,9.52,5
+888,Joseph Brown,Billing,Escalated,18.37,1
+889,Kevin Douglas,Billing,Pending,14.72,4
+890,Alexis Hanson,Account Access,Resolved,40.86,2
+891,Laurie Brown,Technical Support,Escalated,21.12,1
+892,Barbara Dawson,Technical Support,Resolved,41.04,5
+893,Bradley Christian,Account Access,Pending,8.69,1
+894,Kristie Miller,Technical Support,Escalated,23.21,1
+895,Gary Hoffman,Account Access,Escalated,37.24,3
+896,Dylan Davis,Account Access,Resolved,40.95,5
+897,Mr. Kelly Turner,Service Outage,Resolved,28.84,3
+898,Kelsey Stewart,Service Outage,Resolved,25.03,4
+899,Cheryl Flores,Billing,Escalated,59.67,4
+900,Traci Myers,Account Access,Resolved,24.19,4
+901,Carolyn Day,Service Outage,Resolved,8.13,5
+902,Bobby Baker,Billing,Resolved,15.17,2
+903,April Parker,Account Access,Resolved,51.42,4
+904,Kimberly Daniels,Billing,Resolved,30.11,3
+905,Anita Sparks,Service Outage,Resolved,37.67,5
+906,Elizabeth Clark,Account Access,Resolved,15.96,4
+907,Cindy Buckley,Billing,Resolved,12.31,4
+908,Jennifer Moreno,Billing,Resolved,51.35,1
+909,Nathan Dennis,Service Outage,Escalated,21.59,5
+910,Stephanie Lopez,Account Access,Resolved,26.37,3
+911,Kimberly Barnes,Account Access,Resolved,7.39,1
+912,Manuel Aguirre,Account Access,Pending,20.51,5
+913,Nicholas Rice,Service Outage,Pending,38.39,1
+914,Victoria James,Technical Support,Pending,10.96,1
+915,Kendra Kelly,Service Outage,Escalated,41.88,4
+916,Tara Hoffman,Technical Support,Escalated,20.91,4
+917,Heather Chavez,Technical Support,Pending,24.43,1
+918,Shannon Whitney,Billing,Resolved,48.64,1
+919,Catherine Norton,Billing,Pending,10.71,1
+920,Richard Kidd,Service Outage,Resolved,56.66,4
+921,Kayla Vincent,Billing,Pending,55.27,2
+922,Karen Forbes,Account Access,Escalated,53.23,1
+923,Marie Ingram,Billing,Escalated,34.88,4
+924,Courtney Johnson,Account Access,Pending,25.17,2
+925,Andrew Day,Billing,Pending,57.02,4
+926,Ryan Gonzalez,Technical Support,Escalated,50.62,2
+927,Melissa Parrish,Billing,Pending,39.96,1
+928,Preston Thompson,Billing,Escalated,20.68,4
+929,Susan Garner,Account Access,Resolved,53.0,4
+930,Norman Lee,Account Access,Resolved,36.76,4
+931,Mr. Alejandro Gonzales,Service Outage,Escalated,22.5,3
+932,David Williams,Technical Support,Resolved,39.0,1
+933,Geoffrey White,Service Outage,Resolved,4.71,5
+934,Frank Cordova,Technical Support,Escalated,53.81,1
+935,Charles Sanchez,Billing,Resolved,31.48,4
+936,Debra Webb,Account Access,Pending,7.86,3
+937,Christopher Horn,Billing,Resolved,7.14,5
+938,Anita Rose,Technical Support,Pending,58.13,4
+939,Catherine Garner,Billing,Escalated,26.72,1
+940,John Richmond,Technical Support,Pending,57.19,5
+941,Alison Thompson,Billing,Pending,42.02,5
+942,Jason Haynes,Technical Support,Resolved,25.53,2
+943,Karen Rice,Billing,Escalated,58.93,3
+944,Jennifer Rivera,Service Outage,Escalated,59.62,4
+945,Sheri Hernandez,Account Access,Escalated,9.3,2
+946,Ronald Evans,Technical Support,Escalated,47.17,1
+947,Peggy Woodard,Billing,Pending,45.41,2
+948,Ashley Fisher,Technical Support,Escalated,31.09,2
+949,Daniel Thompson,Technical Support,Escalated,51.04,2
+950,Marissa Wilson,Technical Support,Escalated,9.58,5
+951,Monique Walker,Service Outage,Pending,20.09,3
+952,Bryan Kim,Technical Support,Resolved,10.62,1
+953,Manuel Long,Technical Support,Escalated,8.86,2
+954,Michael Lozano,Account Access,Resolved,15.76,2
+955,Sandra Martinez,Service Outage,Pending,46.97,5
+956,Brittany Kerr,Account Access,Escalated,11.96,1
+957,James Williams,Account Access,Pending,58.28,3
+958,Bryan Flores,Account Access,Escalated,40.69,5
+959,Brenda Cox,Service Outage,Pending,17.86,2
+960,Stephen Kaiser,Billing,Resolved,51.22,5
+961,Scott Haynes,Service Outage,Resolved,31.94,4
+962,Candice Mason,Billing,Pending,50.85,5
+963,Dawn Martinez,Account Access,Pending,7.88,4
+964,Miguel Zavala,Service Outage,Pending,17.91,1
+965,Jessica Ayala,Billing,Resolved,19.35,5
+966,Joshua Perkins,Service Outage,Escalated,31.69,1
+967,Bradley Sosa,Service Outage,Escalated,17.38,3
+968,Cody Hampton,Account Access,Resolved,46.87,4
+969,David Fisher,Billing,Resolved,14.08,1
+970,Madison Chapman,Account Access,Resolved,19.49,4
+971,Maureen Howard,Account Access,Resolved,46.26,2
+972,Howard Bradshaw,Technical Support,Resolved,18.56,3
+973,Daniel Hernandez,Service Outage,Resolved,46.09,2
+974,Juan Peterson,Billing,Resolved,34.05,2
+975,Emily Lopez,Account Access,Resolved,28.16,4
+976,Deborah Phillips,Technical Support,Resolved,25.06,1
+977,Christopher Hawkins,Account Access,Pending,34.93,5
+978,Rachel Mercado,Account Access,Escalated,24.14,5
+979,Thomas Stewart,Billing,Resolved,49.09,1
+980,Roy Reed,Technical Support,Pending,20.42,5
+981,Andrea Reynolds,Service Outage,Escalated,19.01,1
+982,Jennifer Jones,Account Access,Pending,49.02,1
+983,Dr. Brianna Summers MD,Billing,Resolved,21.73,5
+984,Patricia Hall,Service Outage,Resolved,59.17,2
+985,Michael Meza,Account Access,Resolved,5.62,4
+986,Amy Barnes,Account Access,Escalated,54.03,1
+987,Michael Lyons,Technical Support,Pending,47.05,4
+988,Frederick Cummings,Service Outage,Pending,44.09,3
+989,Phyllis Smith,Account Access,Pending,17.71,5
+990,Jeffrey Hart,Account Access,Escalated,17.41,4
+991,Kim King,Account Access,Escalated,45.41,3
+992,Jenna Collier,Account Access,Resolved,6.94,2
+993,Antonio Small,Account Access,Resolved,17.28,2
+994,Stephen Scott,Account Access,Escalated,50.51,1
+995,Teresa Ramsey,Billing,Resolved,40.24,3
+996,Gary Fernandez,Technical Support,Escalated,4.46,5
+997,Gabrielle Johnson DDS,Account Access,Escalated,32.47,1
+998,Jeffrey Flynn,Billing,Escalated,45.15,1
+999,Monica Lewis,Technical Support,Escalated,22.64,3
+1000,Ashley Owens MD,Technical Support,Escalated,56.75,3
